@@ -2,7 +2,7 @@
 <h3 align="center">ECE Student @ MNIT Jaipur | MERN Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;DSA+%7C+LeetCode+%7C+Problem+Solver;Building+Projects+Every+Week" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;DSA+%7C+LeetCode+%7C+Problem+Solver" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Nunito"/>
+<img src="https://leetcard.jacoblin.cool/peeyush_saini?theme=dark&font=Nunito"/>
 
 </p>
 
@@ -113,7 +113,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/peeyush1719">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
