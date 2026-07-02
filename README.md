@@ -93,7 +93,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Peeyush1719&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Peeyush1719&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -113,16 +113,12 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/peeyush1719">
+<a href="https://www.linkedin.com/in/peeyush1719/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Peeyush1719">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
