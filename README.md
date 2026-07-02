@@ -89,26 +89,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Peeyush1719&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 📈 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/peeyush_saini?theme=dark&font=Nunito"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
