@@ -2,7 +2,7 @@
 <h3 align="center">ECE Student @ MNIT Jaipur | MERN Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;DSA+%7C+LeetCode+%7C+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;DSA+%7C+LeetCode+%7C+Problem+Solver" />
 </p>
 
 ---
@@ -11,9 +11,8 @@
 
 - 🎓 B.Tech in Electronics & Communication Engineering @ **MNIT Jaipur**
 - 💻 Passionate about **Full Stack Web Development**
-- 🌱 Currently learning **Advanced MERN Stack**
 - 🧠 Solving **LeetCode & GFG** problems daily
-- ⚡ Interested in Backend Development, APIs & System Design
+- ⚡ Interested in Backend Development and APIs 
 - 🎯 Goal: Crack top product-based companies
 
 ---
@@ -51,7 +50,7 @@
 | Project | Description | Tech |
 |----------|-------------|------|
 | 🖼️ Gallery App | Infinite scrolling image gallery using Picsum API | React, Tailwind, Axios |
-| 🔐 Authentication System | JWT Authentication with Login & Register | Node.js, Express, MongoDB |
+| 🔐 Resume Generator | JWT Authentication with Login & Register | Node.js, Express, MongoDB |
 | 📌 Placement Tracker *(Upcoming)* | Track applications, OA, interviews | MERN |
 | 🤖 AI Chat App *(Upcoming)* | AI assistant using React + Node | React, Express |
 
