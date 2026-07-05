@@ -50,23 +50,12 @@
 | Project | Description | Tech |
 |----------|-------------|------|
 | 🖼️ Gallery App | Infinite scrolling image gallery using Picsum API | React, Tailwind, Axios |
-| 🔐 Resume Generator | JWT Authentication with Login & Register | Node.js, Express, MongoDB |
+| 🔐 AI-Interview-Prep-Platform | JWT Authentication with Login & Register | Node.js, Express, MongoDB |
 | 📌 Placement Tracker *(Upcoming)* | Track applications, OA, interviews | MERN |
 | 🤖 AI Chat App *(Upcoming)* | AI assistant using React + Node | React, Express |
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peeyush1719&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush1719&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
