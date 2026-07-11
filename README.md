@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peeyush</h1>
 <h3 align="center">ECE Student @ MNIT Jaipur | MERN Stack Developer | DSA Enthusiast</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;DSA+%7C+LeetCode+%7C+Problem+Solver" />
-</p>
-
 ---
 
 ## 🚀 About Me
