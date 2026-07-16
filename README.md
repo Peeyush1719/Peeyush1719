@@ -47,8 +47,8 @@
 |----------|-------------|------|-------|
 | 🤖 AI Interview Prep Platform | AI-powered interview preparation platform that analyzes resumes and job descriptions to generate personalized interview questions and preparation plans with secure JWT authentication. | React, Node.js, Express.js, MongoDB, JWT, Gemini API | **Demo:** https://ai-interview-prep-platform-six.vercel.app <br> **Repo:** https://github.com/Peeyush1719/AI-Interview-Prep-Platform |
 | 🔗 MERN URL Shortener | Full-stack URL shortener that converts long URLs into shareable links with QR code generation, click tracking, URL validation, and instant redirection. | React, Node.js, Express.js, MongoDB, NanoID | **Demo:** https://url-shortner-tau-three.vercel.app <br> **Repo:** https://github.com/Peeyush1719/url-shortner |
-| 🖼️ Gallery App | Responsive image gallery featuring infinite scrolling and dynamic image loading using the Picsum API for a seamless browsing experience. | React, Tailwind CSS, Axios | **Repo:** https://github.com/Peeyush1719/gallery-app |
-| 🎵 Spotify Clone | Responsive Spotify-inspired music player UI with playlists, albums, modern navigation, and an interactive user interface. | HTML, CSS, JavaScript | **Repo:** https://github.com/Peeyush1719/spotify-clone |
+| 🖼️ Gallery App | Responsive image gallery featuring infinite scrolling and dynamic image loading using the Picsum API for a seamless browsing experience. | React, Tailwind CSS, Axios | **Repo:** https://github.com/Peeyush1719/Gallery-Project |
+| 🎵 Spotify Clone | Responsive Spotify-inspired music player UI with playlists, albums, modern navigation, and an interactive user interface. | HTML, CSS, JavaScript | **Repo:** https://github.com/Peeyush1719/spotify--clone |
 
 ---
 
